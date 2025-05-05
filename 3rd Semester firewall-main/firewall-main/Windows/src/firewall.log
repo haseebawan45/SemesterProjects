@@ -1,0 +1,20 @@
+2025-01-03 00:01:51,016 - INFO - Starting firewall...
+2025-01-03 00:01:51,017 - INFO - Firewall initialized.
+2025-01-03 00:01:51,017 - WARNING - Invalid request detected.
+2025-01-03 00:01:51,018 - ERROR - Error occurred while processing request.
+2025-01-03 00:01:51,018 - CRITICAL - Critical system failure. Shutting down...
+2025-01-03 00:01:51,253 - WARNING - Anomalies detected:
+2025-01-03 00:01:51,253 - WARNING - 2025-01-03 00:01:51,016 - INFO - Starting firewall...
+
+2025-01-03 00:01:51,253 - WARNING - 2025-01-03 00:01:51,018 - ERROR - Error occurred while processing request.
+
+2025-01-03 00:20:54,223 - INFO - Starting firewall...
+2025-01-03 00:20:54,224 - INFO - Firewall initialized.
+2025-01-03 00:20:54,224 - WARNING - Invalid request detected.
+2025-01-03 00:20:54,232 - ERROR - Error occurred while processing request.
+2025-01-03 00:20:54,233 - CRITICAL - Critical system failure. Shutting down...
+2025-01-03 00:20:54,472 - WARNING - Anomalies detected:
+2025-01-03 00:20:54,472 - WARNING - 2025-01-03 00:01:51,253 - WARNING - 2025-01-03 00:01:51,018 - ERROR - Error occurred while processing request.
+
+2025-01-03 00:20:54,472 - WARNING - 
+
